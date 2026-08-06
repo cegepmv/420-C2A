@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/420-C2A/intro/index.html</loc>
+    <lastmod>2026-08-06T08:17:59-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/420-C2A/intro/web/index.html</loc>
+    <lastmod>2026-08-03T15:31:55-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/420-C2A/creerweb/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/420-C2A/intro/web2/index.html</loc>
+    <lastmod>2026-08-03T15:33:01-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/420-C2A/intro/web3/index.html</loc>
+    <lastmod>2026-08-03T15:33:04-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/420-C2A/intro/glossaire/index.html</loc>
+    <lastmod>2026-08-06T08:17:59-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/420-C2A/index.html</loc>
+    <lastmod>2026-08-06T08:17:59-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/420-C2A/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>http://localhost:1313/420-C2A/tags/index.html</loc>
+  </url>
+</urlset>

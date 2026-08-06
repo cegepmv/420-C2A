@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creer du contenu web :: 420-C2A Contenu web</title>
+    <link>http://localhost:1313/420-C2A/creerweb/index.html</link>
+    <description>Selon votre objectif, plusieurs moyens sont offerts sur le net pour créer à peu près n’importe quoi. Au final, la technologie pour produire une page se base sur trois langages: HTML, CSS et JavaScript. Mais comment y arriver?&#xA;Voici des exemples d’objectifs: Publicités Présentations Ventes en ligne Distribution Musique, Vidéos Communications Portfolio / CV en ligne Blogue / Journal personnel Formation et cours en ligne Communauté / Forum Réservation en ligne Application web / SaaS Collecte de fonds Actualités / Nouvelles Documentation / Wiki Jeux en ligne Voici plusieurs moyens d’y arriver CMS (Wix, Wordpress) Éditeur texte avec du HTML, CSS et Javascript Avec l’IA (générer le HTML, CSS et Javascript) Éditeur sur mesure (Figma, Canva) Application mobile (iOS, Android) Frameworks JavaScript (React, Vue, Angular, Svelte) Générateurs de sites statiques (Hugo, Jekyll, Next.js, Gatsby) No-code / Low-code (Webflow, Bubble, Framer) Plateformes e-commerce (Shopify, WooCommerce, PrestaShop) Plateformes de blogue (Ghost, Substack, Medium)</description>
+    <generator>Hugo</generator>
+    <language>fr-ca</language>
+    <lastBuildDate>Thu, 06 Aug 2026 10:24:31 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/420-C2A/creerweb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML5 (HyperText Markup Language)</title>
+      <link>http://localhost:1313/420-C2A/creerweb/html/index.html</link>
+      <pubDate>Thu, 06 Aug 2026 09:13:07 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/creerweb/html/index.html</guid>
+      <description>HTML est le langage de base utilisé dans tout le net. Toute les pages lues par Firefox, Google Chrome ou Safari contiennent du HTML. On construit une page web avec ce standard qui existe depuis le début de la création de la toile. La structure peut être simple, distribuée sur plusieurs pages. On peut référer d’autres pages avec un lien.&#xA;Balise HTML On utilise une balise d’ouverture et de fermeture pour chaque élément HTML. Pour un titre, ça donne:</description>
+    </item>
+    <item>
+      <title>CSS3 (Cascading Style Sheets)</title>
+      <link>http://localhost:1313/420-C2A/creerweb/css/index.html</link>
+      <pubDate>Thu, 06 Aug 2026 09:13:12 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/creerweb/css/index.html</guid>
+      <description>CSS est le langage qui contrôle l’apparence visuelle des pages HTML. Couleurs, polices, marges, disposition — tout ce qui touche au style est géré par le CSS. Sans CSS, une page web n’affiche que du texte brut sans mise en forme.&#xA;Règle CSS Une règle CSS est composée d’un sélecteur (l’élément à styliser) et de déclarations (propriété + valeur).</description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:1313/420-C2A/creerweb/javascript/index.html</link>
+      <pubDate>Thu, 06 Aug 2026 10:24:31 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/creerweb/javascript/index.html</guid>
+      <description>JavaScript est le langage qui rend les pages web interactives. Là où HTML structure le contenu et CSS le met en forme, JavaScript lui donne vie — boutons, animations, formulaires, mises à jour de contenu sans recharger la page.&#xA;Balise script On intègre du JavaScript dans une page HTML avec la balise &lt;script&gt;, idéalement à la fin du &lt;body&gt;:</description>
+    </item>
+  </channel>
+</rss>

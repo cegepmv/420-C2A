@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction au Web :: 420-C2A Contenu web</title>
+    <link>http://localhost:1313/420-C2A/intro/index.html</link>
+    <description>L’origine du WWW&#xA;Il était une fois le World Wide Web&#xA;Genève, mars 1989. Au CERN, laboratoire européen pour la recherche nucléaire, on ne fait pas que de la physique fondamentale. Une autre technologie de pointe se développe silencieusement. Ce qui n’est encore qu’un document technique interne sera à l’origine d’un bouleversement sociétal profond et mondial. Une révolution aussi importante que l’invention de l’imprimerie, qui avait lancé la Renaissance plus de cinq cents ans auparavant. À l’époque, le CERN est le pôle de convergence d’une vaste communauté de plus de dix-sept mille scientifiques, répandue dans cent pays. Mais il y a un problème. Les chercheurs sont disséminés dans des universités et des laboratoires partout dans le monde. Bien qu’ils se retrouvent parfois à Genève, ils peinent à s’échanger des informations facilement et avec fluidité. Pourtant, les réseaux informatiques existent : Arpanet, l’ancêtre d’Internet, date de 1969. Mais il n’y a pas de protocole de communication standardisé et c’est un obstacle à une utilisation à grande échelle. Heureusement, un chercheur britannique trouve la solution. Tim Berners-Lee a l’idée géniale d’utiliser les réseaux informatiques et de faire communiquer les ordinateurs personnels entre eux avec un langage universel, ce qu’il appelle alors l’hypertexte.</description>
+    <generator>Hugo</generator>
+    <language>fr-ca</language>
+    <lastBuildDate>Thu, 06 Aug 2026 08:17:59 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/420-C2A/intro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web 1.0</title>
+      <link>http://localhost:1313/420-C2A/intro/web/index.html</link>
+      <pubDate>Mon, 03 Aug 2026 15:31:55 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/intro/web/index.html</guid>
+      <description>Un endroit libre et foissonnant Publier un contenu visible instantément partout dans le monde! Pour ceux qui connaissent le HTML, il est possible d’avoir vitrine partout sur la planète. Les entreprises et les gouvernements copient leur publicité sur leur site Internet. Les vitesses de connexion sont alors limités, la limite fait en sorte que l’exposition progresse d’année en année jusqu’à aujourd’hui.</description>
+    </item>
+    <item>
+      <title>Web 2.0</title>
+      <link>http://localhost:1313/420-C2A/intro/web2/index.html</link>
+      <pubDate>Mon, 03 Aug 2026 15:33:01 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/intro/web2/index.html</guid>
+      <description>L’essor des réseaux sociaux et l’ère de la concentration La communication devient bilatérale avec l’essor des réseaux sociaux tels que MySpace puis Facebook ou LinkedIn, les outils de blogging comme Wordpress, Blogger ou Skyblog, les plateformes de vidéos à l’instar de YouTube, Dailymotion et Vimeo, pour n’en citer que quelques-uns. Au niveau technologique, les smartphones dotés de grands écrans tactiles comme l’iPhone rendent le Web mobile. Et enfin, il y a l’éclosion d’une génération d’internautes, alors âgés de 10 à 15 ans, qui n’ont pas souvenir d’avoir connu le monde sans le Web.</description>
+    </item>
+    <item>
+      <title>Web 3.0</title>
+      <link>http://localhost:1313/420-C2A/intro/web3/index.html</link>
+      <pubDate>Mon, 03 Aug 2026 15:33:04 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/intro/web3/index.html</guid>
+      <description>Une ère de renouveau Gavin Wood, informaticien britannique et cofondateur de la blockchain Ethereum, évoque, en 2014 déjà, le nom de «Web3³». Il qualifie ainsi un Web décentralisé et ouvert. Les données ne sont plus centralisées et contrôlées en un seul endroit, ni dans les mains d’une seule entité, mais distribuées entre tous les utilisateurs. Le Web décentralisé, basé sur la blockchain, fonctionne sur les notions d’identité auto-souveraine et de données auto-gérées. Cela signifie que chacun est maître et propriétaire de ses données et peut quand bon lui semble, procurer ou révoquer l’accès à celles-ci, totalement ou partiellement.</description>
+    </item>
+    <item>
+      <title>Glossaire</title>
+      <link>http://localhost:1313/420-C2A/intro/glossaire/index.html</link>
+      <pubDate>Thu, 06 Aug 2026 08:17:59 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/intro/glossaire/index.html</guid>
+      <description>Arpanet — Réseau informatique militaire américain créé en 1969, considéré comme l’ancêtre d’Internet. Il permit pour la première fois de relier des ordinateurs entre eux à distance.&#xA;Blockchain — Technologie de stockage et de transmission de données fonctionnant sous forme de registre distribué. Les informations sont regroupées en blocs enchaînés et partagés entre tous les participants du réseau, sans autorité centrale.&#xA;Blogging — Pratique consistant à publier régulièrement des articles ou billets sur un blogue (site web personnel ou thématique). Des plateformes comme WordPress, Blogger ou Skyblog ont popularisé cette pratique au Web 2.0.</description>
+    </item>
+  </channel>
+</rss>
