@@ -1,4 +1,4 @@
-baseURL = 'https://cegepmv.github.io/420-C2A'
+baseURL = 'https://cegepmv.github.io/420-C2A/'
 languageCode = 'fr-ca'
 title = '420-C2A Contenu web'
 theme = 'hugo-theme-relearn'
