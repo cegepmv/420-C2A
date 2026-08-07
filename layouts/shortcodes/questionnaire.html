@@ -1,0 +1,9 @@
+{{- $titre := .Get "titre" | default "Questionnaire" -}}
+<div class="quiz-container">
+  <h3 class="quiz-titre">{{ $titre }}</h3>
+  {{ .Inner }}
+  <div class="quiz-footer">
+    <button type="button" class="quiz-score-btn" onclick="calculerScore(this)">Voir mon score</button>
+    <span class="quiz-score-result"></span>
+  </div>
+</div>

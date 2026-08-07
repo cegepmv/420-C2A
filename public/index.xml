@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>420-C2A Contenu web</title>
-    <link>http://localhost:1313/420-C2A/index.html</link>
+    <link>http://localhost:1314/420-C2A/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Thu, 06 Aug 2026 10:24:31 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/420-C2A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Aug 2026 08:49:15 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1314/420-C2A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction au Web</title>
-      <link>http://localhost:1313/420-C2A/intro/index.html</link>
-      <pubDate>Thu, 06 Aug 2026 08:17:59 -0400</pubDate>
-      <guid>http://localhost:1313/420-C2A/intro/index.html</guid>
+      <link>http://localhost:1314/420-C2A/intro/index.html</link>
+      <pubDate>Fri, 07 Aug 2026 08:49:15 -0400</pubDate>
+      <guid>http://localhost:1314/420-C2A/intro/index.html</guid>
       <description>L’origine du WWW&#xA;Il était une fois le World Wide Web&#xA;Genève, mars 1989. Au CERN, laboratoire européen pour la recherche nucléaire, on ne fait pas que de la physique fondamentale. Une autre technologie de pointe se développe silencieusement. Ce qui n’est encore qu’un document technique interne sera à l’origine d’un bouleversement sociétal profond et mondial. Une révolution aussi importante que l’invention de l’imprimerie, qui avait lancé la Renaissance plus de cinq cents ans auparavant. À l’époque, le CERN est le pôle de convergence d’une vaste communauté de plus de dix-sept mille scientifiques, répandue dans cent pays. Mais il y a un problème. Les chercheurs sont disséminés dans des universités et des laboratoires partout dans le monde. Bien qu’ils se retrouvent parfois à Genève, ils peinent à s’échanger des informations facilement et avec fluidité. Pourtant, les réseaux informatiques existent : Arpanet, l’ancêtre d’Internet, date de 1969. Mais il n’y a pas de protocole de communication standardisé et c’est un obstacle à une utilisation à grande échelle. Heureusement, un chercheur britannique trouve la solution. Tim Berners-Lee a l’idée géniale d’utiliser les réseaux informatiques et de faire communiquer les ordinateurs personnels entre eux avec un langage universel, ce qu’il appelle alors l’hypertexte.</description>
     </item>
     <item>
       <title>Creer du contenu web</title>
-      <link>http://localhost:1313/420-C2A/creerweb/index.html</link>
-      <pubDate>Thu, 06 Aug 2026 10:24:31 -0400</pubDate>
-      <guid>http://localhost:1313/420-C2A/creerweb/index.html</guid>
+      <link>http://localhost:1314/420-C2A/creerweb/index.html</link>
+      <pubDate>Fri, 07 Aug 2026 08:30:03 -0400</pubDate>
+      <guid>http://localhost:1314/420-C2A/creerweb/index.html</guid>
       <description>Selon votre objectif, plusieurs moyens sont offerts sur le net pour créer à peu près n’importe quoi. Au final, la technologie pour produire une page se base sur trois langages: HTML, CSS et JavaScript. Mais comment y arriver?&#xA;Voici des exemples d’objectifs: Publicités Présentations Ventes en ligne Distribution Musique, Vidéos Communications Portfolio / CV en ligne Blogue / Journal personnel Formation et cours en ligne Communauté / Forum Réservation en ligne Application web / SaaS Collecte de fonds Actualités / Nouvelles Documentation / Wiki Jeux en ligne Voici plusieurs moyens d’y arriver CMS (Wix, Wordpress) Éditeur texte avec du HTML, CSS et Javascript Avec l’IA (générer le HTML, CSS et Javascript) Éditeur sur mesure (Figma, Canva) Application mobile (iOS, Android) Frameworks JavaScript (React, Vue, Angular, Svelte) Générateurs de sites statiques (Hugo, Jekyll, Next.js, Gatsby) No-code / Low-code (Webflow, Bubble, Framer) Plateformes e-commerce (Shopify, WooCommerce, PrestaShop) Plateformes de blogue (Ghost, Substack, Medium)</description>
     </item>
   </channel>

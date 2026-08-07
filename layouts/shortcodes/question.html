@@ -1,0 +1,178 @@
+{{- $id := .Get "id" | default (printf "q-%d" .Ordinal) -}}
+{{- $texte := .Get "texte" -}}
+{{- $a := .Get "a" -}}
+{{- $b := .Get "b" -}}
+{{- $c := .Get "c" -}}
+{{- $d := .Get "d" -}}
+{{- $reponse := .Get "reponse" -}}
+
+{{- if not (.Page.Store.Get "quiz-assets-loaded") -}}
+{{- .Page.Store.Set "quiz-assets-loaded" true -}}
+<style>
+.quiz-container {
+  margin: 1.5rem 0;
+}
+.quiz-titre {
+  margin-bottom: 1.2rem;
+  color: var(--MAIN-TITLES-H1-TEXT-color, #222);
+}
+.quiz-question {
+  background: var(--BOX-BG-color, rgba(255,255,255,.83));
+  border: 1px solid rgba(0,0,0,.12);
+  border-left: 4px solid var(--MAIN-LINK-color, #59a83e);
+  border-radius: 4px;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+}
+.quiz-question-texte {
+  font-weight: 600;
+  margin: 0 0 .8rem;
+  color: var(--MAIN-TEXT-color, #323232);
+}
+.quiz-choices {
+  display: flex;
+  flex-direction: column;
+  gap: .35rem;
+  margin-bottom: .8rem;
+}
+.quiz-choice {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .35rem .6rem;
+  border-radius: 4px;
+  cursor: pointer;
+  color: var(--MAIN-TEXT-color, #323232);
+  transition: background .15s;
+}
+.quiz-choice:hover {
+  background: rgba(89,168,62,.1);
+}
+.quiz-choice input[type="radio"] {
+  cursor: pointer;
+  accent-color: var(--MAIN-LINK-color, #59a83e);
+}
+.quiz-verifier {
+  padding: .3rem .9rem;
+  border: none;
+  border-radius: 4px;
+  background: var(--MAIN-LINK-color, #59a83e);
+  color: #fff;
+  cursor: pointer;
+  font-size: .875rem;
+  font-weight: 500;
+  transition: background .15s;
+}
+.quiz-verifier:hover:not(:disabled) {
+  background: var(--MAIN-LINK-HOVER-color, #3f6d2c);
+}
+.quiz-verifier:disabled {
+  opacity: .55;
+  cursor: default;
+}
+.quiz-result {
+  margin-top: .5rem;
+  padding: .4rem .7rem;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: .9rem;
+  display: none;
+}
+.quiz-result.visible { display: block; }
+.quiz-correct  { background: #d4edda; color: #155724; }
+.quiz-incorrect { background: #f8d7da; color: #721c24; }
+.quiz-warning  { background: #fff3cd; color: #856404; }
+.quiz-choice.correct-choice  { background: rgba(212,237,218,.6); }
+.quiz-choice.incorrect-choice { background: rgba(248,215,218,.6); }
+.quiz-footer {
+  margin-top: 1.2rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.quiz-score-btn {
+  padding: .35rem 1rem;
+  border: none;
+  border-radius: 4px;
+  background: var(--MENU-HEADER-BG-color, #74b559);
+  color: #fff;
+  cursor: pointer;
+  font-size: .9rem;
+  font-weight: 500;
+  transition: opacity .15s;
+}
+.quiz-score-btn:hover { opacity: .85; }
+.quiz-score-result {
+  font-weight: 700;
+  font-size: 1rem;
+}
+</style>
+<script>
+function verifierQuestion(id) {
+  var block = document.getElementById(id);
+  if (!block) return;
+  var reponse = block.dataset.reponse;
+  var selected = block.querySelector('input[type="radio"]:checked');
+  var result = block.querySelector('.quiz-result');
+
+  if (!selected) {
+    result.textContent = '⚠ Veuillez choisir une réponse.';
+    result.className = 'quiz-result visible quiz-warning';
+    return;
+  }
+
+  block.querySelectorAll('.quiz-choice').forEach(function(label) {
+    label.classList.remove('correct-choice', 'incorrect-choice');
+    var val = label.querySelector('input').value;
+    if (val === reponse) {
+      label.classList.add('correct-choice');
+    } else if (val === selected.value) {
+      label.classList.add('incorrect-choice');
+    }
+  });
+
+  block.querySelectorAll('input[type="radio"]').forEach(function(r) { r.disabled = true; });
+  block.querySelector('.quiz-verifier').disabled = true;
+
+  if (selected.value === reponse) {
+    result.textContent = '✓ Bonne réponse !';
+    result.className = 'quiz-result visible quiz-correct';
+  } else {
+    result.textContent = '✗ Mauvaise réponse. La bonne réponse était : (' + reponse.toUpperCase() + ')';
+    result.className = 'quiz-result visible quiz-incorrect';
+  }
+}
+
+function calculerScore(btn) {
+  var container = btn.closest('.quiz-container');
+  var questions = container.querySelectorAll('.quiz-question');
+  var correct = 0;
+  var answered = 0;
+  questions.forEach(function(q) {
+    var selected = q.querySelector('input[type="radio"]:checked');
+    if (selected) {
+      answered++;
+      if (selected.value === q.dataset.reponse) correct++;
+    }
+  });
+  var total = questions.length;
+  var pct = total > 0 ? Math.round(correct / total * 100) : 0;
+  var result = container.querySelector('.quiz-score-result');
+  result.textContent = 'Score\u00a0: ' + correct + '\u00a0/\u00a0' + total + '\u00a0(' + pct + '\u00a0%)';
+  result.style.color = pct >= 80 ? '#155724' : pct >= 60 ? '#856404' : '#721c24';
+}
+</script>
+{{- end -}}
+
+<div class="quiz-question" id="{{ $id }}" data-reponse="{{ $reponse }}">
+  <p class="quiz-question-texte">{{ $texte }}</p>
+  <div class="quiz-choices">
+    {{- if $a }}<label class="quiz-choice"><input type="radio" name="{{ $id }}" value="a"> {{ $a }}</label>{{ end -}}
+    {{- if $b }}<label class="quiz-choice"><input type="radio" name="{{ $id }}" value="b"> {{ $b }}</label>{{ end -}}
+    {{- if $c }}<label class="quiz-choice"><input type="radio" name="{{ $id }}" value="c"> {{ $c }}</label>{{ end -}}
+    {{- if $d }}<label class="quiz-choice"><input type="radio" name="{{ $id }}" value="d"> {{ $d }}</label>{{ end -}}
+  </div>
+  <button type="button" class="quiz-verifier" onclick="verifierQuestion('{{ $id }}')">Vérifier</button>
+  <div class="quiz-result"></div>
+</div>

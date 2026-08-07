@@ -6,7 +6,7 @@
     <description>L’origine du WWW&#xA;Il était une fois le World Wide Web&#xA;Genève, mars 1989. Au CERN, laboratoire européen pour la recherche nucléaire, on ne fait pas que de la physique fondamentale. Une autre technologie de pointe se développe silencieusement. Ce qui n’est encore qu’un document technique interne sera à l’origine d’un bouleversement sociétal profond et mondial. Une révolution aussi importante que l’invention de l’imprimerie, qui avait lancé la Renaissance plus de cinq cents ans auparavant. À l’époque, le CERN est le pôle de convergence d’une vaste communauté de plus de dix-sept mille scientifiques, répandue dans cent pays. Mais il y a un problème. Les chercheurs sont disséminés dans des universités et des laboratoires partout dans le monde. Bien qu’ils se retrouvent parfois à Genève, ils peinent à s’échanger des informations facilement et avec fluidité. Pourtant, les réseaux informatiques existent : Arpanet, l’ancêtre d’Internet, date de 1969. Mais il n’y a pas de protocole de communication standardisé et c’est un obstacle à une utilisation à grande échelle. Heureusement, un chercheur britannique trouve la solution. Tim Berners-Lee a l’idée géniale d’utiliser les réseaux informatiques et de faire communiquer les ordinateurs personnels entre eux avec un langage universel, ce qu’il appelle alors l’hypertexte.</description>
     <generator>Hugo</generator>
     <language>fr-ca</language>
-    <lastBuildDate>Thu, 06 Aug 2026 08:17:59 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 08:49:15 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/420-C2A/intro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web 1.0</title>
@@ -35,6 +35,13 @@
       <pubDate>Thu, 06 Aug 2026 08:17:59 -0400</pubDate>
       <guid>http://localhost:1313/420-C2A/intro/glossaire/index.html</guid>
       <description>Arpanet — Réseau informatique militaire américain créé en 1969, considéré comme l’ancêtre d’Internet. Il permit pour la première fois de relier des ordinateurs entre eux à distance.&#xA;Blockchain — Technologie de stockage et de transmission de données fonctionnant sous forme de registre distribué. Les informations sont regroupées en blocs enchaînés et partagés entre tous les participants du réseau, sans autorité centrale.&#xA;Blogging — Pratique consistant à publier régulièrement des articles ou billets sur un blogue (site web personnel ou thématique). Des plateformes comme WordPress, Blogger ou Skyblog ont popularisé cette pratique au Web 2.0.</description>
+    </item>
+    <item>
+      <title>Questionnaire</title>
+      <link>http://localhost:1313/420-C2A/intro/atelier/index.html</link>
+      <pubDate>Fri, 07 Aug 2026 08:49:15 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/intro/atelier/index.html</guid>
+      <description>Testez vos connaissances sur les notions vues dans cette section. Pour chaque question, sélectionnez la meilleure réponse puis cliquez sur Vérifier. Une fois toutes les questions répondues, cliquez sur Voir mon score.&#xA;Questionnaire — Introduction au Web Comment qualifie-t-on la nature de la communication dans le Web 1.0 ?</description>
     </item>
   </channel>
 </rss>
