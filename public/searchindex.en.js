@@ -5,7 +5,7 @@ var relearn_searchindex = [
     "description": "L’origine du WWW\nIl était une fois le World Wide Web\nGenève, mars 1989. Au CERN, laboratoire européen pour la recherche nucléaire, on ne fait pas que de la physique fondamentale. Une autre technologie de pointe se développe silencieusement. Ce qui n’est encore qu’un document technique interne sera à l’origine d’un bouleversement sociétal profond et mondial. Une révolution aussi importante que l’invention de l’imprimerie, qui avait lancé la Renaissance plus de cinq cents ans auparavant. À l’époque, le CERN est le pôle de convergence d’une vaste communauté de plus de dix-sept mille scientifiques, répandue dans cent pays. Mais il y a un problème. Les chercheurs sont disséminés dans des universités et des laboratoires partout dans le monde. Bien qu’ils se retrouvent parfois à Genève, ils peinent à s’échanger des informations facilement et avec fluidité. Pourtant, les réseaux informatiques existent : Arpanet, l’ancêtre d’Internet, date de 1969. Mais il n’y a pas de protocole de communication standardisé et c’est un obstacle à une utilisation à grande échelle. Heureusement, un chercheur britannique trouve la solution. Tim Berners-Lee a l’idée géniale d’utiliser les réseaux informatiques et de faire communiquer les ordinateurs personnels entre eux avec un langage universel, ce qu’il appelle alors l’hypertexte.",
     "tags": [],
     "title": "Introduction au Web",
-    "uri": "/420-C2A/intro/index.html"
+    "uri": "/intro/index.html"
   },
   {
     "breadcrumb": "420-C2A Contenu web \u003e Creer du contenu web",
@@ -13,15 +13,15 @@ var relearn_searchindex = [
     "description": "HTML est le langage de base utilisé dans tout le net. Toute les pages lues par Firefox, Google Chrome ou Safari contiennent du HTML. On construit une page web avec ce standard qui existe depuis le début de la création de la toile. La structure peut être simple, distribuée sur plusieurs pages. On peut référer d’autres pages avec un lien.\nBalise HTML On utilise une balise d’ouverture et de fermeture pour chaque élément HTML. Pour un titre, ça donne:",
     "tags": [],
     "title": "HTML5 (HyperText Markup Language)",
-    "uri": "/420-C2A/creerweb/html/index.html"
+    "uri": "/creerweb/html/index.html"
   },
   {
     "breadcrumb": "420-C2A Contenu web \u003e Introduction au Web",
-    "content": "Un endroit libre et foissonnant Publier un contenu visible instantément partout dans le monde! Pour ceux qui connaissent le HTML, il est possible d’avoir vitrine partout sur la planète. Les entreprises et les gouvernements copient leur publicité sur leur site Internet. Les vitesses de connexion sont alors limités, la limite fait en sorte que l’exposition progresse d’année en année jusqu’à aujourd’hui.\nLes premières version du web 1.0 ne sont pas encore très interactives. On dira que la communication est majoritairement unilatérale. Les moteurs de recherche font leur aparition: Yahoo!, Altavista et Google voient le jour.\nD’autres applications voient le jour pour le partage de fichier peer-to-peer comme Napster. Des systèmes pour communiquer voient le jour sous forme de chat (IRC en 1988 et ICQ en 1996).\nL’Internet d’alors, peu réglementé et libre, foisonne de projets, de sites et de plateformes. Jubilatoires, les médias évoquent alors la «nouvelle économie» qui va remplacer la précédente. Mais une ombre plane: l’euphorie des médias et des investisseurs a créé une énorme bulle spéculative. Cette bulle a bien fini par éclater, en 2001, faisant plonger bon nombre d’acteurs. Cela n’a toutefois pas arrêté le progrès et l’innovation. Car quelques années plus tard, quinze ans après sa naissance, le Web va connaître une évolution majeure.\nSource: Le marketing digital à l’ère de l’IA et du Web3, LENDI STEFAN, Livre broché.",
+    "content": "Un endroit libre et foissonnant Publier un contenu visible instantément partout dans le monde! Pour ceux qui connaissent le HTML, il est possible d’avoir vitrine partout sur la planète. Les entreprises et les gouvernements copient leur publicité sur leur site Internet. Les vitesses de connexion sont alors limités, la limite fait en sorte que l’exposition progresse d’année en année jusqu’à aujourd’hui.\nLes premières version du web 1.0 ne sont pas encore très interactives. On dira que la communication est majoritairement unilatérale. Les moteurs de recherche font leur aparition: Yahoo!, Altavista et Google voient le jour.\nWebcam en direct — Santa Monica, Californie 📷 Santa Monica Pier — Los Angeles, Californie (EarthCam) altavista.com en 2003 pets.com.com en 2003 D’autres applications voient le jour pour le partage de fichier peer-to-peer comme Napster. Des systèmes pour communiquer voient le jour sous forme de chat (IRC en 1988 et ICQ en 1996).\nnapster.com.com en 1999 L’Internet d’alors, peu réglementé et libre, foisonne de projets, de sites et de plateformes. Jubilatoires, les médias évoquent alors la «nouvelle économie» qui va remplacer la précédente. Mais une ombre plane: l’euphorie des médias et des investisseurs a créé une énorme bulle spéculative. Cette bulle a bien fini par éclater, en 2001, faisant plonger bon nombre d’acteurs. Cela n’a toutefois pas arrêté le progrès et l’innovation. Car quelques années plus tard, quinze ans après sa naissance, le Web va connaître une évolution majeure.\nSource: Le marketing digital à l’ère de l’IA et du Web3, LENDI STEFAN, Livre broché.\nSource image du web: https://web.archive.org/web/20030205064839/http://www.altavista.com/",
     "description": "Un endroit libre et foissonnant Publier un contenu visible instantément partout dans le monde! Pour ceux qui connaissent le HTML, il est possible d’avoir vitrine partout sur la planète. Les entreprises et les gouvernements copient leur publicité sur leur site Internet. Les vitesses de connexion sont alors limités, la limite fait en sorte que l’exposition progresse d’année en année jusqu’à aujourd’hui.",
     "tags": [],
     "title": "Web 1.0",
-    "uri": "/420-C2A/intro/web/index.html"
+    "uri": "/intro/web/index.html"
   },
   {
     "breadcrumb": "420-C2A Contenu web",
@@ -29,7 +29,7 @@ var relearn_searchindex = [
     "description": "Selon votre objectif, plusieurs moyens sont offerts sur le net pour créer à peu près n’importe quoi. Au final, la technologie pour produire une page se base sur trois langages: HTML, CSS et JavaScript. Mais comment y arriver?\nVoici des exemples d’objectifs: Publicités Présentations Ventes en ligne Distribution Musique, Vidéos Communications Portfolio / CV en ligne Blogue / Journal personnel Formation et cours en ligne Communauté / Forum Réservation en ligne Application web / SaaS Collecte de fonds Actualités / Nouvelles Documentation / Wiki Jeux en ligne Voici plusieurs moyens d’y arriver CMS (Wix, Wordpress) Éditeur texte avec du HTML, CSS et Javascript Avec l’IA (générer le HTML, CSS et Javascript) Éditeur sur mesure (Figma, Canva) Application mobile (iOS, Android) Frameworks JavaScript (React, Vue, Angular, Svelte) Générateurs de sites statiques (Hugo, Jekyll, Next.js, Gatsby) No-code / Low-code (Webflow, Bubble, Framer) Plateformes e-commerce (Shopify, WooCommerce, PrestaShop) Plateformes de blogue (Ghost, Substack, Medium)",
     "tags": [],
     "title": "Creer du contenu web",
-    "uri": "/420-C2A/creerweb/index.html"
+    "uri": "/creerweb/index.html"
   },
   {
     "breadcrumb": "420-C2A Contenu web \u003e Creer du contenu web",
@@ -37,7 +37,7 @@ var relearn_searchindex = [
     "description": "CSS est le langage qui contrôle l’apparence visuelle des pages HTML. Couleurs, polices, marges, disposition — tout ce qui touche au style est géré par le CSS. Sans CSS, une page web n’affiche que du texte brut sans mise en forme.\nRègle CSS Une règle CSS est composée d’un sélecteur (l’élément à styliser) et de déclarations (propriété + valeur).",
     "tags": [],
     "title": "CSS3 (Cascading Style Sheets)",
-    "uri": "/420-C2A/creerweb/css/index.html"
+    "uri": "/creerweb/css/index.html"
   },
   {
     "breadcrumb": "420-C2A Contenu web \u003e Introduction au Web",
@@ -45,7 +45,7 @@ var relearn_searchindex = [
     "description": "L’essor des réseaux sociaux et l’ère de la concentration La communication devient bilatérale avec l’essor des réseaux sociaux tels que MySpace puis Facebook ou LinkedIn, les outils de blogging comme Wordpress, Blogger ou Skyblog, les plateformes de vidéos à l’instar de YouTube, Dailymotion et Vimeo, pour n’en citer que quelques-uns. Au niveau technologique, les smartphones dotés de grands écrans tactiles comme l’iPhone rendent le Web mobile. Et enfin, il y a l’éclosion d’une génération d’internautes, alors âgés de 10 à 15 ans, qui n’ont pas souvenir d’avoir connu le monde sans le Web.",
     "tags": [],
     "title": "Web 2.0",
-    "uri": "/420-C2A/intro/web2/index.html"
+    "uri": "/intro/web2/index.html"
   },
   {
     "breadcrumb": "420-C2A Contenu web \u003e Creer du contenu web",
@@ -53,7 +53,7 @@ var relearn_searchindex = [
     "description": "JavaScript est le langage qui rend les pages web interactives. Là où HTML structure le contenu et CSS le met en forme, JavaScript lui donne vie — boutons, animations, formulaires, mises à jour de contenu sans recharger la page.\nBalise script On intègre du JavaScript dans une page HTML avec la balise \u003cscript\u003e, idéalement à la fin du \u003cbody\u003e:",
     "tags": [],
     "title": "Javascript",
-    "uri": "/420-C2A/creerweb/javascript/index.html"
+    "uri": "/creerweb/javascript/index.html"
   },
   {
     "breadcrumb": "420-C2A Contenu web \u003e Introduction au Web",
@@ -61,7 +61,7 @@ var relearn_searchindex = [
     "description": "Une ère de renouveau Gavin Wood, informaticien britannique et cofondateur de la blockchain Ethereum, évoque, en 2014 déjà, le nom de «Web3³». Il qualifie ainsi un Web décentralisé et ouvert. Les données ne sont plus centralisées et contrôlées en un seul endroit, ni dans les mains d’une seule entité, mais distribuées entre tous les utilisateurs. Le Web décentralisé, basé sur la blockchain, fonctionne sur les notions d’identité auto-souveraine et de données auto-gérées. Cela signifie que chacun est maître et propriétaire de ses données et peut quand bon lui semble, procurer ou révoquer l’accès à celles-ci, totalement ou partiellement.",
     "tags": [],
     "title": "Web 3.0",
-    "uri": "/420-C2A/intro/web3/index.html"
+    "uri": "/intro/web3/index.html"
   },
   {
     "breadcrumb": "420-C2A Contenu web \u003e Creer du contenu web",
@@ -69,7 +69,7 @@ var relearn_searchindex = [
     "description": "Un système de gestion de contenu ou SGC[1] (content management system ou CMS en anglais) est un logiciel qui permet de créer un site Internet, un blog, un site de vente en ligne ou encore un wiki (moteur de wiki)[2]. Un SGC permet de travailler à plusieurs sur un même document[3], de séparer les opérations de gestion de la forme et du contenu, de structurer le contenu (FAQ, documents, blogs, forums, etc.) ou de hiérarchiser les utilisateurs et de leur attribuer des permissions (anonyme, administrateur, contributeur, etc.). Il fournit également une chaîne de publication (workflow) offrant la possibilité de préparer puis de mettre en ligne le contenu des documents.",
     "tags": [],
     "title": "Système de gestion de contenu (CMS)",
-    "uri": "/420-C2A/creerweb/cms/index.html"
+    "uri": "/creerweb/cms/index.html"
   },
   {
     "breadcrumb": "420-C2A Contenu web \u003e Introduction au Web",
@@ -77,7 +77,7 @@ var relearn_searchindex = [
     "description": "Arpanet — Réseau informatique militaire américain créé en 1969, considéré comme l’ancêtre d’Internet. Il permit pour la première fois de relier des ordinateurs entre eux à distance.\nBlockchain — Technologie de stockage et de transmission de données fonctionnant sous forme de registre distribué. Les informations sont regroupées en blocs enchaînés et partagés entre tous les participants du réseau, sans autorité centrale.\nBlogging — Pratique consistant à publier régulièrement des articles ou billets sur un blogue (site web personnel ou thématique). Des plateformes comme WordPress, Blogger ou Skyblog ont popularisé cette pratique au Web 2.0.",
     "tags": [],
     "title": "Glossaire",
-    "uri": "/420-C2A/intro/glossaire/index.html"
+    "uri": "/intro/glossaire/index.html"
   },
   {
     "breadcrumb": "420-C2A Contenu web \u003e Introduction au Web",
@@ -85,7 +85,15 @@ var relearn_searchindex = [
     "description": "Testez vos connaissances sur les notions vues dans cette section. Pour chaque question, sélectionnez la meilleure réponse puis cliquez sur Vérifier. Une fois toutes les questions répondues, cliquez sur Voir mon score.\nQuestionnaire — Introduction au Web Comment qualifie-t-on la nature de la communication dans le Web 1.0 ?",
     "tags": [],
     "title": "Questionnaire",
-    "uri": "/420-C2A/intro/atelier/index.html"
+    "uri": "/intro/atelier/index.html"
+  },
+  {
+    "breadcrumb": "420-C2A Contenu web \u003e Creer du contenu web",
+    "content": "Ces exercices se font directement dans votre navigateur, sans aucune installation. Vous n’avez besoin que d’une page web à inspecter — utilisez n’importe quel site public, par exemple https://www.w3schools.com.\nExercice 1 — Essayer le mode développeur Les navigateurs modernes offrent un outil intégré pour inspecter et comprendre le code HTML d’une page web : les outils développeur (DevTools).\nÉtapes :\nOuvrez votre navigateur (Chrome, Firefox ou Edge) et accédez à n’importe quelle page web. Ouvrez les outils développeur avec l’une de ces méthodes : Appuyez sur F12 Ou appuyez sur Ctrl+Shift+I (Windows/Linux) / Cmd+Option+I (Mac) Ou faites un clic droit sur la page, puis choisissez Inspecter Un panneau s’ouvre (généralement en bas ou à droite). Repérez l’onglet Éléments (Chrome/Edge) ou Inspecteur (Firefox). Dans cet onglet, vous voyez l’arborescence HTML complète de la page. Cliquez sur une balise pour la déplier. Survolez différentes balises dans le panneau : la zone correspondante s’illumine dans la page. Conseil Vous pouvez aussi cliquer sur l'icône en forme de curseur (🔲) en haut à gauche des outils développeur, puis cliquer directement sur un élément de la page pour le sélectionner immédiatement dans le panneau HTML. À observer : Repérez les balises \u003chtml\u003e, \u003chead\u003e, \u003cbody\u003e et quelques balises de contenu comme \u003ch1\u003e, \u003cp\u003e ou \u003cnav\u003e.\nExercice 2 — Trouver les images dans la page Les images en HTML sont insérées avec la balise \u003cimg\u003e. Cet exercice vous apprend à les repérer et à lire leurs attributs.\nÉtapes :\nAvec les outils développeur ouverts sur l’onglet Éléments / Inspecteur, appuyez sur Ctrl+F (ou Cmd+F sur Mac) pour ouvrir la recherche dans le code HTML. Tapez img dans le champ de recherche. Les occurrences de la balise \u003cimg\u003e sont surlignées. Naviguez entre elles avec les flèches. Cliquez sur une balise \u003cimg\u003e pour l’examiner. Repérez ses attributs : src — l’adresse (URL) du fichier image alt — la description alternative (utile pour l’accessibilité) width / height — les dimensions si elles sont précisées Survolez la valeur de l’attribut src : une prévisualisation de l’image apparaît souvent directement dans les outils développeur. À noter Certaines images ne sont pas des balises `` : elles peuvent être définies en CSS (propriété `background-image`). Ces images n'apparaîtront pas dans votre recherche HTML. À livrer : Notez le src et le alt de deux images trouvées sur la page inspectée.\nExercice 3 — Modifier le code HTML dans le mode développeur Les outils développeur permettent de modifier temporairement le HTML d’une page, directement dans le navigateur. Ces modifications n’affectent que votre affichage local et disparaissent au rechargement — c’est un environnement d’expérimentation sans risque.\nÉtapes :\nDans le panneau Éléments / Inspecteur, localisez une balise de titre, par exemple \u003ch1\u003e. Double-cliquez sur le texte à l’intérieur de la balise (entre les balises ouvrante et fermante). Modifiez le texte, par exemple remplacez le titre original par votre prénom. Appuyez sur Entrée pour confirmer. Le titre change immédiatement dans la page. Maintenant, double-cliquez sur le nom de la balise elle-même (le h1). Remplacez h1 par h3, puis confirmez avec Entrée. Observez comment la taille du titre change. Pour ajouter un attribut, faites un clic droit sur une balise et choisissez Add attribute (ou Ajouter un attribut). Ajoutez style=\"color: red;\" à un paragraphe \u003cp\u003e et observez le résultat. Rappel Toutes ces modifications sont **temporaires**. Un simple **F5** (rechargement de la page) remet la page dans son état d'origine. Vous n'avez donc aucun risque de « casser » quoi que ce soit. À essayer en bonus : Trouvez une balise \u003cimg\u003e et modifiez son attribut src pour le remplacer par l’URL d’une autre image (par exemple https://picsum.photos/200). L’image se remplace en direct!",
+    "description": "Ces exercices se font directement dans votre navigateur, sans aucune installation. Vous n’avez besoin que d’une page web à inspecter — utilisez n’importe quel site public, par exemple https://www.w3schools.com.\nExercice 1 — Essayer le mode développeur Les navigateurs modernes offrent un outil intégré pour inspecter et comprendre le code HTML d’une page web : les outils développeur (DevTools).",
+    "tags": [],
+    "title": "Atelier",
+    "uri": "/creerweb/atelier/index.html"
   },
   {
     "breadcrumb": "",
@@ -93,7 +101,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "420-C2A Contenu web",
-    "uri": "/420-C2A/index.html"
+    "uri": "/index.html"
   },
   {
     "breadcrumb": "420-C2A Contenu web",
@@ -101,7 +109,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Categories",
-    "uri": "/420-C2A/categories/index.html"
+    "uri": "/categories/index.html"
   },
   {
     "breadcrumb": "420-C2A Contenu web",
@@ -109,6 +117,6 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/420-C2A/tags/index.html"
+    "uri": "/tags/index.html"
   }
 ]

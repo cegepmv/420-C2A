@@ -4,7 +4,15 @@ type = "chapter"
 weight = 1
 +++
 
-L'origine du WWW
+## Mon premier contact avec le Web (1995)
+
+J'étais en stage dans une entreprise de post-production. Nous étions dans le petit bureau du directeur et il nous a montré qu'il était possible de voir en direct à Santa-Monica. Entassé à 5 personnes autour de son écran à regarder le paysage de la Californie, nous étions éblouis sans pour autant y être!
+
+https://www.earthcam.com/usa/california/santamonica/?cam=santamonica
+
+https://explore.org/livecams/santa-monica-beach/santa-monica-beach-cam
+
+## L'origine du WWW
 
 Il était une fois le World Wide Web
 
@@ -15,5 +23,7 @@ Les chercheurs sont disséminés dans des universités et des laboratoires parto
 Heureusement, un chercheur britannique trouve la solution. ***Tim Berners-Lee*** a l'idée géniale d'utiliser les réseaux informatiques et de faire communiquer les ordinateurs personnels entre eux avec un langage universel, ce qu'il appelle alors ***l'hypertexte***.
 
 Il rédige une première proposition pour créer un système d'information — les fameux **hyperliens** qui relient les pages entre elles. Ce système est *simple et puissant*. Un an plus tard, un ingénieur belge, **Robert Cailliau**, l'aidera à parachever la proposition du ***World Wide Web***, c'est-à-dire une toile mondiale de liens, tissée dans du texte et lisible avec un **navigateur**. Le tout premier site (**info.cern.ch**) voit le jour fin **1990**. *Le Web est né.*
+
+
 
 Source: *Le marketing digital à l'ère de l'IA et du Web3*, [LENDI STEFAN](https://www.amazon.ca/-/fr/s/ref=dp_byline_sr_book_1?ie=UTF8&field-author=LENDI++STEFAN&text=LENDI++STEFAN&sort=relevancerank&search-alias=books-ca), Livre broché.

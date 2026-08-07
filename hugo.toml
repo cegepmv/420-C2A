@@ -2,6 +2,8 @@ baseURL = 'https://cegepmv.github.io/420-C2A/'
 languageCode = 'fr-ca'
 title = '420-C2A Contenu web'
 theme = 'hugo-theme-relearn'
+canonifyURLs = true
+
 [params]
   # Change default color scheme with a variant one. Can be empty, "red", "blue", "green".
   themeVariant = "green"
