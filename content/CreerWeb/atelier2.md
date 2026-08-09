@@ -40,3 +40,37 @@ Pour voir toutes les pages, cliquez sur **Gérer les pages**
 
 Choisissez une des pages, cliquez sur **Modifier la page**
 ![Étape 6b](/images/wix-etape6b.png)
+
+### 7 - L'entête de votre site web
+
+Dans la plupart des gabarits et des sites web, il est possible de réutiliser le bloc HTML pour l'entête. En réalité, si vous cliquez pour modifier une page, vous serez en mesure de la localiser en haut de la page.
+
+![Étape 7](/images/wix-etape7.png)
+
+### 8 - Mode édition des éléments de la page
+
+Lorsque l'on veut modifier le texte ou les propriétés (couleur, taille, etc.) de l'élément choisi, le menu au dessus va s'adapter en fonction du contenu (texte, image, etc.).
+
+#### Exemple de texte de déconnexion
+![Étape 8](/images/wix-etape8.png)
+
+#### Exemple de modification du menu
+![Étape 8a](/images/wix-etape8a.png)
+![Étape 8b](/images/wix-etape8b.png)
+![Étape 8c](/images/wix-etape8c.png)
+
+### 9 - Gestion des couches de la page
+
+Pour mieux voir la hierarchie de la page et de ses composantes, il est possible d'utiliser le mode **couche**.
+
+![Étape 9](/images/wix-etape9.png)
+
+### 10 - Mode prévisionnement
+
+Pour voir ce que votre page se présente dans un navigateur, vous pouvez cliques sur **Aperçu**.
+
+![Étape 10](/images/wix-etape10.png)
+
+Promenez-vous dans votre nouveau site web en cliquant sur les différents liens (menu, hyperlien, etc.). Vous pouvez revenir en mode édition à tout moment en cliquant sur **Modifier le site**.
+
+![Étape 10a](/images/wix-etape10a.png)
