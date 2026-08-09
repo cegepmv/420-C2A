@@ -30,6 +30,13 @@
       <description>Une ère de renouveau Gavin Wood, informaticien britannique et cofondateur de la blockchain Ethereum, évoque, en 2014 déjà, le nom de «Web3³». Il qualifie ainsi un Web décentralisé et ouvert. Les données ne sont plus centralisées et contrôlées en un seul endroit, ni dans les mains d’une seule entité, mais distribuées entre tous les utilisateurs. Le Web décentralisé, basé sur la blockchain, fonctionne sur les notions d’identité auto-souveraine et de données auto-gérées. Cela signifie que chacun est maître et propriétaire de ses données et peut quand bon lui semble, procurer ou révoquer l’accès à celles-ci, totalement ou partiellement.</description>
     </item>
     <item>
+      <title>Composantes du Web</title>
+      <link>http://localhost:1313/420-C2A/intro/composantes/index.html</link>
+      <pubDate>Thu, 06 Aug 2026 14:11:38 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/intro/composantes/index.html</guid>
+      <description>Client Web Votre ordinateur (cellulaire, tablette, etc.) agit comme un client faisant une demande sur le Web. Il joue le rôle d’intermédiare entre vous et le serveur web avec l’aide de ses logiciels de navigateur (Chrome, Firefox, Edge, Safari) et son système d’exploitation (Windows 11, MacOs, Android, iOS). Ce dernier lui permet d’afficher le contenu sur votre écran et d’acheminer les demandes via son lien réseau (Wifi, filaire). Son interface avec nous peut varier selon le dispositif (clavier, souris, micro pour la voie, écran tactile, manette, etc.).</description>
+    </item>
+    <item>
       <title>Glossaire</title>
       <link>http://localhost:1313/420-C2A/intro/glossaire/index.html</link>
       <pubDate>Thu, 06 Aug 2026 08:17:59 -0400</pubDate>

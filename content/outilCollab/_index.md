@@ -1,7 +1,7 @@
 +++
 title = "OutilCollab"
 type = "chapter"
-weight = 1
+weight = 3
 +++
 
 Maintenant que vous devez travailler sur le web pour échanger vos idées avec tous les autres internautes, voici les outils de prédilection sur le net.

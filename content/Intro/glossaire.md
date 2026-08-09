@@ -2,7 +2,7 @@
 date = '2026-08-06T08:17:59-04:00'
 draft = false
 title = 'Glossaire'
-weight = 4
+weight = 5
 +++
 
 **Arpanet** — Réseau informatique militaire américain créé en 1969, considéré comme l'ancêtre d'Internet. Il permit pour la première fois de relier des ordinateurs entre eux à distance.
