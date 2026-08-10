@@ -1,6 +1,6 @@
 +++
 date = '2026-08-09T13:50:00-04:00'
-draft = false
+draft = true
 title = 'Atelier Figma'
 +++
 

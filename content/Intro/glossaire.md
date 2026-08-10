@@ -1,6 +1,6 @@
 +++
 date = '2026-08-06T08:17:59-04:00'
-draft = false
+draft = true
 title = 'Glossaire'
 weight = 5
 +++
