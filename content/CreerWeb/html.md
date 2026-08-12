@@ -25,7 +25,7 @@ On utilise une balise d'ouverture et de fermeture pour chaque élément HTML. Po
 
 ## L'entête
 
-Dans l'entête, on doit y mettre un titre. De plus, on peut mettre le lien vers le fichier de style CSS, la description du site (mots clés, description, auteur de la page, encodage, etc.), le lien vers le fichier de scripts (JavaScript). 
+Dans l'entête, on doit y mettre un titre. De plus, on peut mettre le lien vers le fichier de style CSS, la description du site (mots clés, description, auteur de la page, encodage, etc.), le lien vers le fichier de scripts (JavaScript).
 
 ```html
 <head>
@@ -56,6 +56,10 @@ Dans le body de la page, c'est là que l'on y met le contenu. Ce peut être des 
 ```html
 <img src="photo.jpg" alt="Description de l'image">
 ```
+
+{{< notice style="warning" title="Important" >}}
+Le lien vers la source de l'image peut être relatif ou absolu. 
+{{< /notice >}}
 
 ### Liste non ordonnée (puces)
 ```html
@@ -92,5 +96,17 @@ Voici à quoi ressemble une page HTML minimale:
   </body>
 </html>
 ```
+
+## Sauvegarde et validation
+
+Il est suggéré de tester la cohérence et le fonctionnement avec un navigateur web. Pour se faire, vous pouvez sauvegarder les fichiers .html, .css et .js dans un dossier local. Enfin, vous pouvez charger dans un navigateur le fichier index.html. Vous aurez un aperçu du rendu avant la publication sur un hébergeur.
+
+
+{{< notice style="warning" title="Important" >}}
+Il est toujours recommandé de tester l'intégration complète de votre site web <b>localement</b> avant de le publier sur le net. Lorsqu'une <b>erreur</b> se trouve sur votre site web, les robots qui scannent votre contenu peuvent pénaliser votre <b><i>rang</i></b> s'il y a des erreurs et des incohérences.
+<br/>
+<b>Source de l'information</b>: <a href="https://sirlinksalot.co/is-my-website-penalized/">sirlinksalot.co</a>
+
+{{< /notice >}}
 
 Source: https://www.w3schools.com/html/

@@ -27,28 +27,28 @@ Règle CSS Une règle CSS est composée d’un sélecteur (l’élément à styl
 Règle CSS Une règle CSS est composée d’un sélecteur (l’élément à styliser) et de déclarations (propriété &#43; valeur).">
     <meta itemprop="datePublished" content="2026-08-06T09:13:12-04:00">
     <meta itemprop="dateModified" content="2026-08-06T09:13:12-04:00">
-    <meta itemprop="wordCount" content="196">
+    <meta itemprop="wordCount" content="423">
     <title>CSS3 (Cascading Style Sheets) :: 420-C2A Contenu web</title><link rel="icon" href="http://localhost:1313/420-C2A/ContenuWeb/images/favicon.png" type="image/png">
-    <link href="http://localhost:1313/420-C2A/css/auto-complete/auto-complete.min.css?1786306954" rel="stylesheet">
-    <script src="http://localhost:1313/420-C2A/js/auto-complete/auto-complete.min.js?1786306954" defer></script>
-    <script src="http://localhost:1313/420-C2A/js/search-lunr.js?1786306954" defer></script>
-    <script src="http://localhost:1313/420-C2A/js/search.js?1786306954" defer></script>
+    <link href="http://localhost:1313/420-C2A/css/auto-complete/auto-complete.min.css?1786560510" rel="stylesheet">
+    <script src="http://localhost:1313/420-C2A/js/auto-complete/auto-complete.min.js?1786560510" defer></script>
+    <script src="http://localhost:1313/420-C2A/js/search-lunr.js?1786560510" defer></script>
+    <script src="http://localhost:1313/420-C2A/js/search.js?1786560510" defer></script>
     <script>
       window.relearn = window.relearn || {};
-      window.relearn.index_js_url="http://localhost:1313/420-C2A/searchindex.en.js?1786306954";
+      window.relearn.index_js_url="http://localhost:1313/420-C2A/searchindex.en.js?1786560510";
     </script>
-    <script src="http://localhost:1313/420-C2A/js/lunr/lunr.min.js?1786306954" defer></script>
-    <script src="http://localhost:1313/420-C2A/js/lunr/lunr.stemmer.support.min.js?1786306954" defer></script>
-    <script src="http://localhost:1313/420-C2A/js/lunr/lunr.multi.min.js?1786306954" defer></script>
-    <script src="http://localhost:1313/420-C2A/js/lunr/lunr.fr.min.js?1786306954" defer></script>
+    <script src="http://localhost:1313/420-C2A/js/lunr/lunr.min.js?1786560510" defer></script>
+    <script src="http://localhost:1313/420-C2A/js/lunr/lunr.stemmer.support.min.js?1786560510" defer></script>
+    <script src="http://localhost:1313/420-C2A/js/lunr/lunr.multi.min.js?1786560510" defer></script>
+    <script src="http://localhost:1313/420-C2A/js/lunr/lunr.fr.min.js?1786560510" defer></script>
     <script>
       window.relearn = window.relearn || {};
       window.relearn.contentLangs=['fr'];
     </script>
-    <link href="http://localhost:1313/420-C2A/fonts/fontawesome/css/all.min.css?1786306954" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="http://localhost:1313/420-C2A/fonts/fontawesome/css/all.min.css?1786306954" rel="stylesheet"></noscript>
-    <link href="http://localhost:1313/420-C2A/css/perfect-scrollbar/perfect-scrollbar.min.css?1786306954" rel="stylesheet">
-    <link href="http://localhost:1313/420-C2A/css/theme.css?1786306954" rel="stylesheet">
-    <link href="http://localhost:1313/420-C2A/css/format-html.css?1786306954" rel="stylesheet" id="R-format-style">
+    <link href="http://localhost:1313/420-C2A/fonts/fontawesome/css/all.min.css?1786560510" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="http://localhost:1313/420-C2A/fonts/fontawesome/css/all.min.css?1786560510" rel="stylesheet"></noscript>
+    <link href="http://localhost:1313/420-C2A/css/perfect-scrollbar/perfect-scrollbar.min.css?1786560510" rel="stylesheet">
+    <link href="http://localhost:1313/420-C2A/css/theme.css?1786560510" rel="stylesheet">
+    <link href="http://localhost:1313/420-C2A/css/format-html.css?1786560510" rel="stylesheet" id="R-format-style">
     <script>
       window.relearn = window.relearn || {};
       // configuration
@@ -143,36 +143,104 @@ Règle CSS Une règle CSS est composée d’un sélecteur (l’élément à styl
 <div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">h1</span> {
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">color</span>: <span style="color:#66d9ef">blue</span>;
 </span></span><span style="display:flex;"><span>}</span></span></code></pre></div>
+
+<details open class="box cstyle notices warning">
+  <summary class="box-label" tabindex="-1">
+    <i class="fa-fw fas fa-exclamation-triangle"></i> 
+    Important
+  </summary>
+  <div class="box-content">
+Il est idéal de centraliser les styles CSS dans des <b>fichiers .css</b> avec des noms <b>significatifs</b>. Cela permet de réutiliser les styles dans plusieurs pages HTML.
+  </div>
+</details>
+<h2 id="classes-et-identifiants">Classes et identifiants<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
+<p>Pour appliquer un style à un <strong>élément précis</strong> plutôt qu&rsquo;à tous les éléments du même type, on utilise des <strong>classes</strong> (<code>.</code>) ou des <strong>identifiants</strong> (<code>#</code>).</p>
+<table>
+	<thead>
+			<tr>
+					<th>Sélecteur</th>
+					<th>Syntaxe CSS</th>
+					<th>Attribut HTML</th>
+					<th>Usage</th>
+			</tr>
+	</thead>
+	<tbody>
+			<tr>
+					<td>Classe</td>
+					<td><code>.nom</code></td>
+					<td><code>class=&quot;nom&quot;</code></td>
+					<td>Plusieurs éléments</td>
+			</tr>
+			<tr>
+					<td>Identifiant</td>
+					<td><code>#nom</code></td>
+					<td><code>id=&quot;nom&quot;</code></td>
+					<td>Un seul élément unique</td>
+			</tr>
+	</tbody>
+</table>
+<p>Exemple CSS avec une classe et un identifiant:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#a6e22e">titre-principal</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">color</span>: <span style="color:#66d9ef">darkblue</span>;
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">font-size</span>: <span style="color:#ae81ff">2</span><span style="color:#66d9ef">em</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>#logo {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">width</span>: <span style="color:#ae81ff">120</span><span style="color:#66d9ef">px</span>;
+</span></span><span style="display:flex;"><span>}</span></span></code></pre></div>
+<p>Utilisation dans le HTML:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">h1</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;titre-principal&#34;</span>&gt;Bienvenue&lt;/<span style="color:#f92672">h1</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">img</span> <span style="color:#a6e22e">id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;logo&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;logo.png&#34;</span> <span style="color:#a6e22e">alt</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Logo du site&#34;</span>&gt;</span></span></code></pre></div>
 <h2 id="couleur-et-fond">Couleur et fond<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
-<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">p</span> {
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#a6e22e">message-alerte</span> {
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">color</span>: <span style="color:#66d9ef">red</span>;
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">background-color</span>: <span style="color:#66d9ef">yellow</span>;
 </span></span><span style="display:flex;"><span>}</span></span></code></pre></div>
+<p>Utilisation dans le HTML:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">p</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;message-alerte&#34;</span>&gt;Attention, ce champ est obligatoire.&lt;/<span style="color:#f92672">p</span>&gt;</span></span></code></pre></div>
 <h2 id="texte-et-police">Texte et police<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
-<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">p</span> {
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#a6e22e">contenu-article</span> {
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">font-size</span>: <span style="color:#ae81ff">16</span><span style="color:#66d9ef">px</span>;
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">font-family</span>: Arial, <span style="color:#66d9ef">sans-serif</span>;
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">font-weight</span>: <span style="color:#66d9ef">bold</span>;
 </span></span><span style="display:flex;"><span>}</span></span></code></pre></div>
+<p>Utilisation dans le HTML:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">p</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;contenu-article&#34;</span>&gt;Voici le texte principal de l&#39;article.&lt;/<span style="color:#f92672">p</span>&gt;</span></span></code></pre></div>
 <h2 id="marges-et-espacement">Marges et espacement<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
-<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">p</span> {
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#a6e22e">bloc-texte</span> {
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">margin</span>: <span style="color:#ae81ff">20</span><span style="color:#66d9ef">px</span>;    <span style="color:#75715e">/* espace à l&#39;extérieur de l&#39;élément */</span>
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">padding</span>: <span style="color:#ae81ff">10</span><span style="color:#66d9ef">px</span>;   <span style="color:#75715e">/* espace à l&#39;intérieur de l&#39;élément */</span>
 </span></span><span style="display:flex;"><span>}</span></span></code></pre></div>
+<p>Utilisation dans le HTML:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">div</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;bloc-texte&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">p</span>&gt;Ce paragraphe est dans un bloc avec des marges.&lt;/<span style="color:#f92672">p</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">div</span>&gt;</span></span></code></pre></div>
 <h2 id="styles-pour-les-images">Styles pour les images<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
-<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">img</span> {
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#a6e22e">photo-produit</span> {
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">border</span>: <span style="color:#ae81ff">1</span><span style="color:#66d9ef">px</span> <span style="color:#66d9ef">solid</span> <span style="color:#ae81ff">#ddd</span>;
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">border-radius</span>: <span style="color:#ae81ff">4</span><span style="color:#66d9ef">px</span>;
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">padding</span>: <span style="color:#ae81ff">5</span><span style="color:#66d9ef">px</span>;
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">width</span>: <span style="color:#ae81ff">150</span><span style="color:#66d9ef">px</span>;
 </span></span><span style="display:flex;"><span>}</span></span></code></pre></div>
+<p>Utilisation dans le HTML:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">img</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;photo-produit&#34;</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;chaise.jpg&#34;</span> <span style="color:#a6e22e">alt</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;Chaise en bois&#34;</span>&gt;</span></span></code></pre></div>
 <h2 id="comment-lier-le-css-au-html">Comment lier le CSS au HTML<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
 <p>On place le lien vers le fichier CSS dans le <code>&lt;head&gt;</code> de la page HTML:</p>
 <div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>&lt;<span style="color:#f92672">head</span>&gt;
 </span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">link</span> <span style="color:#a6e22e">rel</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;stylesheet&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;style.css&#34;</span>&gt;
 </span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">head</span>&gt;</span></span></code></pre></div>
+
+<details open class="box cstyle notices warning">
+  <summary class="box-label" tabindex="-1">
+    <i class="fa-fw fas fa-exclamation-triangle"></i> 
+    Important
+  </summary>
+  <div class="box-content">
+Vous pouvez également vous sauvez du temps en utilisant un gabarit CSS. Il en existe un myriade sur le net. Ce pour tous les goûts: <a href="https://www.w3schools.com/w3css/w3css_templates.asp">Gabarit CSS</a>
+  </div>
+</details>
 <h2 id="structure-complète">Structure complète<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
-<p>Un fichier <code>style.css</code> minimal:</p>
+<p>Un fichier <code>style.css</code> minimal combinant sélecteurs d&rsquo;éléments et classes:</p>
 <div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">body</span> {
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">font-family</span>: Arial, <span style="color:#66d9ef">sans-serif</span>;
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">background-color</span>: <span style="color:#ae81ff">#f5f5f5</span>;
@@ -182,10 +250,29 @@ Règle CSS Une règle CSS est composée d’un sélecteur (l’élément à styl
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">color</span>: <span style="color:#ae81ff">#333333</span>;
 </span></span><span style="display:flex;"><span>}
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#f92672">p</span> {
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">contenu-principal</span> {
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">font-size</span>: <span style="color:#ae81ff">16</span><span style="color:#66d9ef">px</span>;
 </span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">margin</span>: <span style="color:#ae81ff">10</span><span style="color:#66d9ef">px</span>;
+</span></span><span style="display:flex;"><span>}
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>.<span style="color:#a6e22e">message-important</span> {
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">color</span>: <span style="color:#66d9ef">red</span>;
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">font-weight</span>: <span style="color:#66d9ef">bold</span>;
 </span></span><span style="display:flex;"><span>}</span></span></code></pre></div>
+<p>La page HTML correspondante:</p>
+<div class="highlight actionbar-wrapper wrap-code" dir="auto"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#75715e">&lt;!DOCTYPE html&gt;</span>
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">html</span> <span style="color:#a6e22e">lang</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;fr&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">head</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">charset</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;UTF-8&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">title</span>&gt;Ma page&lt;/<span style="color:#f92672">title</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">link</span> <span style="color:#a6e22e">rel</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;stylesheet&#34;</span> <span style="color:#a6e22e">href</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;style.css&#34;</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">head</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">body</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">h1</span>&gt;Titre de la page&lt;/<span style="color:#f92672">h1</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">p</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;contenu-principal&#34;</span>&gt;Voici le texte principal.&lt;/<span style="color:#f92672">p</span>&gt;
+</span></span><span style="display:flex;"><span>  &lt;<span style="color:#f92672">p</span> <span style="color:#a6e22e">class</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;message-important&#34;</span>&gt;Ceci est un message important.&lt;/<span style="color:#f92672">p</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">body</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">html</span>&gt;</span></span></code></pre></div>
 <p>Source: <a href="https://www.w3schools.com/css/" rel="external">https://www.w3schools.com/css/</a></p>
 
   <footer class="footline">
@@ -237,12 +324,9 @@ Règle CSS Une règle CSS est composée d’un sélecteur (l’élément à styl
             <li class="" data-nav-id="/creerweb/html/index.html"><a class="padding" href="http://localhost:1313/420-C2A/creerweb/html/index.html">HTML5 (HyperText Markup Language)</a></li>
             <li class="active " data-nav-id="/creerweb/css/index.html"><a class="padding" href="http://localhost:1313/420-C2A/creerweb/css/index.html">CSS3 (Cascading Style Sheets)</a></li>
             <li class="" data-nav-id="/creerweb/javascript/index.html"><a class="padding" href="http://localhost:1313/420-C2A/creerweb/javascript/index.html">Javascript</a></li>
-            <li class="" data-nav-id="/creerweb/cms/index.html"><a class="padding" href="http://localhost:1313/420-C2A/creerweb/cms/index.html">Système de gestion de contenu (CMS)</a></li>
-            <li class="" data-nav-id="/creerweb/atelier/index.html"><a class="padding" href="http://localhost:1313/420-C2A/creerweb/atelier/index.html">Atelier Web 1 - Navigateur</a></li>
-            <li class="" data-nav-id="/creerweb/atelier2/index.html"><a class="padding" href="http://localhost:1313/420-C2A/creerweb/atelier2/index.html">Atelier Web 2 - CMS</a></li>
-            <li class="" data-nav-id="/creerweb/questionnaire/index.html"><a class="padding" href="http://localhost:1313/420-C2A/creerweb/questionnaire/index.html">Questionnaire</a></li></ul></li>
-            <li class="" data-nav-id="/outilcollab/index.html"><a class="padding default-animation" href="http://localhost:1313/420-C2A/outilcollab/index.html">OutilCollab</a><ul id="R-subsections-d0642dc2626cdc1f5d7f05ddc51d9ddc" class="collapsible-menu"></ul></li>
-            <li class="" data-nav-id="/ia/index.html"><a class="padding" href="http://localhost:1313/420-C2A/ia/index.html">IA</a></li>
+            <li class="" data-nav-id="/creerweb/cms/index.html"><a class="padding" href="http://localhost:1313/420-C2A/creerweb/cms/index.html">Système de gestion de contenu (CMS)</a></li></ul></li>
+            <li class="" data-nav-id="/outilcollab/index.html"><a class="padding" href="http://localhost:1313/420-C2A/outilcollab/index.html">OutilCollab</a></li>
+            <li class="" data-nav-id="/ia/index.html"><a class="padding default-animation" href="http://localhost:1313/420-C2A/ia/index.html">IA</a><ul id="R-subsections-c7c79d281a2b61f6a7584117d87e9de5" class="collapsible-menu"></ul></li>
           </ul>
         </div>
         <div class="R-sidebarmenu R-shortcutmenu-shortcuts default-animation">
@@ -260,8 +344,8 @@ Règle CSS Une règle CSS est composée d’un sélecteur (l’élément à styl
 <div id="R-footer" class="default-animation"></div>
       </div>
     </aside>
-    <script src="http://localhost:1313/420-C2A/js/perfect-scrollbar/perfect-scrollbar.min.js?1786306954" defer></script>
-    <script src="http://localhost:1313/420-C2A/js/theme.js?1786306954" defer></script>
+    <script src="http://localhost:1313/420-C2A/js/perfect-scrollbar/perfect-scrollbar.min.js?1786560510" defer></script>
+    <script src="http://localhost:1313/420-C2A/js/theme.js?1786560510" defer></script>
     <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
   </body>
 </html>
