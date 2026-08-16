@@ -13,12 +13,12 @@ Les premières version du web 1.0 ne sont pas encore très interactives. On dira
 ### altavista.com en 2003
 ![altavista.com en 2003](/images/altavista.png)
 
-### pets.com.com en 2003
+### pets.com en 1999
 ![Pets.com en 1999](/images/petscom.png)
 
 D'autres applications voient le jour pour le partage de fichier peer-to-peer comme Napster. Des systèmes pour communiquer voient le jour sous forme de chat (IRC en 1988 et ICQ en 1996).
 
-### napster.com.com en 1999
+### napster.com en 1999
 ![napster.com en 1999](/images/napster.png)
 
 L'Internet d'alors, peu réglementé et libre, foisonne de projets, de sites et de plateformes. Jubilatoires, les médias évoquent alors la «nouvelle économie» qui va remplacer la précédente. Mais une ombre plane: l'euphorie des médias et des investisseurs a créé une énorme bulle spéculative.

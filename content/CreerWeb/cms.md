@@ -1,6 +1,6 @@
 +++
 date = '2026-08-07T08:30:03-04:00'
-draft = false
+draft = true
 title = 'Système de gestion de contenu (CMS)'
 weight = 4
 +++

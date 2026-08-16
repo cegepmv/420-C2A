@@ -1,5 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Creer du contenu web :: 420-C2A Contenu web</title><link>https://cegepmv.github.io/420-C2A/creerweb/index.html</link><description>Selon votre objectif, plusieurs moyens sont offerts sur le net pour créer à peu près n’importe quoi. Au final, la technologie pour produire une page se base sur trois langages: HTML, CSS et JavaScript. Mais comment y arriver?
-Voici des exemples d’objectifs: Publicités Présentations Ventes en ligne Distribution Musique, Vidéos Communications Portfolio / CV en ligne Blogue / Journal personnel Formation et cours en ligne Communauté / Forum Réservation en ligne Application web / SaaS Collecte de fonds Actualités / Nouvelles Documentation / Wiki Jeux en ligne Voici plusieurs moyens d’y arriver CMS (Wix, Wordpress) Éditeur texte avec du HTML, CSS et Javascript Avec l’IA (générer le HTML, CSS et Javascript) Éditeur sur mesure (Figma, Canva) Application mobile (iOS, Android) Frameworks JavaScript (React, Vue, Angular, Svelte) Générateurs de sites statiques (Hugo, Jekyll, Next.js, Gatsby) No-code / Low-code (Webflow, Bubble, Framer) Plateformes e-commerce (Shopify, WooCommerce, PrestaShop) Plateformes de blogue (Ghost, Substack, Medium)</description><generator>Hugo</generator><language>fr-ca</language><lastBuildDate>Fri, 07 Aug 2026 08:30:03 -0400</lastBuildDate><atom:link href="https://cegepmv.github.io/420-C2A/creerweb/index.xml" rel="self" type="application/rss+xml"/><item><title>HTML5 (HyperText Markup Language)</title><link>https://cegepmv.github.io/420-C2A/creerweb/html/index.html</link><pubDate>Thu, 06 Aug 2026 09:13:07 -0400</pubDate><guid>https://cegepmv.github.io/420-C2A/creerweb/html/index.html</guid><description>HTML est le langage de base utilisé dans tout le net. Toute les pages lues par Firefox, Google Chrome ou Safari contiennent du HTML. On construit une page web avec ce standard qui existe depuis le début de la création de la toile. La structure peut être simple, distribuée sur plusieurs pages. On peut référer d’autres pages avec un lien.
-Balise HTML On utilise une balise d’ouverture et de fermeture pour chaque élément HTML. Pour un titre, ça donne:</description></item><item><title>CSS3 (Cascading Style Sheets)</title><link>https://cegepmv.github.io/420-C2A/creerweb/css/index.html</link><pubDate>Thu, 06 Aug 2026 09:13:12 -0400</pubDate><guid>https://cegepmv.github.io/420-C2A/creerweb/css/index.html</guid><description>CSS est le langage qui contrôle l’apparence visuelle des pages HTML. Couleurs, polices, marges, disposition — tout ce qui touche au style est géré par le CSS. Sans CSS, une page web n’affiche que du texte brut sans mise en forme.
-Règle CSS Une règle CSS est composée d’un sélecteur (l’élément à styliser) et de déclarations (propriété + valeur).</description></item><item><title>Javascript</title><link>https://cegepmv.github.io/420-C2A/creerweb/javascript/index.html</link><pubDate>Thu, 06 Aug 2026 10:24:31 -0400</pubDate><guid>https://cegepmv.github.io/420-C2A/creerweb/javascript/index.html</guid><description>JavaScript est le langage qui rend les pages web interactives. Là où HTML structure le contenu et CSS le met en forme, JavaScript lui donne vie — boutons, animations, formulaires, mises à jour de contenu sans recharger la page.
-Balise script On intègre du JavaScript dans une page HTML avec la balise &lt;script&gt;, idéalement à la fin du &lt;body&gt;:</description></item><item><title>Système de gestion de contenu (CMS)</title><link>https://cegepmv.github.io/420-C2A/creerweb/cms/index.html</link><pubDate>Fri, 07 Aug 2026 08:30:03 -0400</pubDate><guid>https://cegepmv.github.io/420-C2A/creerweb/cms/index.html</guid><description>Un système de gestion de contenu ou SGC (content management system ou CMS en anglais) est un logiciel qui permet de créer un site Internet, un blog, un site de vente en ligne ou encore un wiki (moteur de wiki). Un SGC permet de travailler à plusieurs sur un même document, de séparer les opérations de gestion de la forme et du contenu, de structurer le contenu (FAQ, documents, blogs, forums, etc.) ou de hiérarchiser les utilisateurs et de leur attribuer des permissions (anonyme, administrateur, contributeur, etc.). Il fournit également une chaîne de publication (workflow) offrant la possibilité de préparer puis de mettre en ligne le contenu des documents.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Creer du contenu web :: 420-C2A Contenu web</title>
+    <link>http://localhost:1313/420-C2A/creerweb/index.html</link>
+    <description>Selon votre objectif, plusieurs moyens sont offerts sur le net pour créer à peu près n’importe quoi. Au final, la technologie pour produire une page se base sur trois langages: HTML, CSS et JavaScript. Mais comment y arriver?&#xA;Voici des exemples d’objectifs: Publicités Présentations Ventes en ligne Distribution Musique, Vidéos Communications Portfolio / CV en ligne Blogue / Journal personnel Formation et cours en ligne Communauté / Forum Réservation en ligne Application web / SaaS Collecte de fonds Actualités / Nouvelles Documentation / Wiki Jeux en ligne Voici plusieurs moyens d’y arriver CMS (Wix, Wordpress) Éditeur texte avec du HTML, CSS et Javascript Avec l’IA (générer le HTML, CSS et Javascript) Éditeur sur mesure (Figma, Canva) Application mobile (iOS, Android) Frameworks JavaScript (React, Vue, Angular, Svelte) Générateurs de sites statiques (Hugo, Jekyll, Next.js, Gatsby) No-code / Low-code (Webflow, Bubble, Framer) Plateformes e-commerce (Shopify, WooCommerce, PrestaShop) Plateformes de blogue (Ghost, Substack, Medium)</description>
+    <generator>Hugo</generator>
+    <language>fr-ca</language>
+    <lastBuildDate>Sun, 09 Aug 2026 12:52:33 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/420-C2A/creerweb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTML5 (HyperText Markup Language)</title>
+      <link>http://localhost:1313/420-C2A/creerweb/html/index.html</link>
+      <pubDate>Thu, 06 Aug 2026 09:13:07 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/creerweb/html/index.html</guid>
+      <description>HTML est le langage de base utilisé dans tout le net. Toute les pages lues par Firefox, Google Chrome ou Safari contiennent du HTML. On construit une page web avec ce standard qui existe depuis le début de la création de la toile. La structure peut être simple, distribuée sur plusieurs pages. On peut référer d’autres pages avec un lien.&#xA;Balise HTML On utilise une balise d’ouverture et de fermeture pour chaque élément HTML. Pour un titre, ça donne:</description>
+    </item>
+    <item>
+      <title>CSS3 (Cascading Style Sheets)</title>
+      <link>http://localhost:1313/420-C2A/creerweb/css/index.html</link>
+      <pubDate>Thu, 06 Aug 2026 09:13:12 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/creerweb/css/index.html</guid>
+      <description>CSS est le langage qui contrôle l’apparence visuelle des pages HTML. Couleurs, polices, marges, disposition — tout ce qui touche au style est géré par le CSS. Sans CSS, une page web n’affiche que du texte brut sans mise en forme.&#xA;Règle CSS Une règle CSS est composée d’un sélecteur (l’élément à styliser) et de déclarations (propriété + valeur).</description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:1313/420-C2A/creerweb/javascript/index.html</link>
+      <pubDate>Thu, 06 Aug 2026 10:24:31 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/creerweb/javascript/index.html</guid>
+      <description>JavaScript est le langage qui rend les pages web interactives. Là où HTML structure le contenu et CSS le met en forme, JavaScript lui donne vie — boutons, animations, formulaires, mises à jour de contenu sans recharger la page.&#xA;Balise script On intègre du JavaScript dans une page HTML avec la balise &lt;script&gt;, idéalement à la fin du &lt;body&gt;:</description>
+    </item>
+    <item>
+      <title>Système de gestion de contenu (CMS)</title>
+      <link>http://localhost:1313/420-C2A/creerweb/cms/index.html</link>
+      <pubDate>Fri, 07 Aug 2026 08:30:03 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/creerweb/cms/index.html</guid>
+      <description>Un système de gestion de contenu ou SGC (content management system ou CMS en anglais) est un logiciel qui permet de créer un site Internet, un blog, un site de vente en ligne ou encore un wiki (moteur de wiki). Un SGC permet de travailler à plusieurs sur un même document, de séparer les opérations de gestion de la forme et du contenu, de structurer le contenu (FAQ, documents, blogs, forums, etc.) ou de hiérarchiser les utilisateurs et de leur attribuer des permissions (anonyme, administrateur, contributeur, etc.). Il fournit également une chaîne de publication (workflow) offrant la possibilité de préparer puis de mettre en ligne le contenu des documents.</description>
+    </item>
+    <item>
+      <title>Atelier Web 1 - Navigateur</title>
+      <link>http://localhost:1313/420-C2A/creerweb/atelier/index.html</link>
+      <pubDate>Fri, 07 Aug 2026 09:20:17 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/creerweb/atelier/index.html</guid>
+      <description>Ces exercices se font directement dans votre navigateur, sans aucune installation. Vous n’avez besoin que d’une page web à inspecter — utilisez n’importe quel site public, par exemple https://www.w3schools.com.&#xA;Exercice 1 — Essayer le mode développeur Les navigateurs modernes offrent un outil intégré pour inspecter et comprendre le code HTML d’une page web : les outils développeur (DevTools).</description>
+    </item>
+    <item>
+      <title>Atelier Web 2 - CMS</title>
+      <link>http://localhost:1313/420-C2A/creerweb/atelier2/index.html</link>
+      <pubDate>Fri, 07 Aug 2026 16:00:43 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/creerweb/atelier2/index.html</guid>
+      <description>Wix.com 1 - Créer un compte Commencez gratuitement. Pour se faire, utilisez votre compte Google, Facebook, Apple ou avec un courriel (rectangle vert). 2 - Créér un site web Les nouveaux CMS votre proposent de commencer avec une idée et ils génèrent une structure avec l’IA déjà toute construite pour vous. Vous pouvez passer (rectange vert) pour poursuivre sans l’aide le l’IA.</description>
+    </item>
+    <item>
+      <title>Questionnaire</title>
+      <link>http://localhost:1313/420-C2A/creerweb/questionnaire/index.html</link>
+      <pubDate>Sun, 09 Aug 2026 12:52:33 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/creerweb/questionnaire/index.html</guid>
+      <description>Testez vos connaissances sur les notions vues dans cette section. Pour chaque question, sélectionnez la meilleure réponse puis cliquez sur Vérifier. Une fois toutes les questions répondues, cliquez sur Voir mon score.&#xA;Questionnaire — Créer du contenu web Quel langage est utilisé pour structurer le contenu d&#39;une page web ?</description>
+    </item>
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 +++
-title = "OutilCollab"
+title = "Outils de collaboration"
 type = "chapter"
 weight = 3
 +++

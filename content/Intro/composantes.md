@@ -24,6 +24,11 @@ Le modèle OSI est un cadre théorique de référence en sept couches qui expliq
 
 Référence: https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/
 
+### Type de réseaux
+
+![Type de réseau](https://miro.medium.com/v2/resize:fit:1400/0*MWd38FFVIPL4d4kS.png)
+
+
 ## Hébergement
 
 Pour avoir un serveur sur le net. Il faut trouver un fournisseur de service qui offre l'hébergement web. Il en existe une quantité énorme de nos jours. La plupart des entreprises oeuvrant dans la création de site web, offre ce service pour une somme assez petite ou gratuitement si vous acceptez certaine contrainte (espace limité pour votre site web, publicités ajoutés, etc.). Par exemple, sur **Wix**, vous pouvez utilisez leur nom de domaine (ajouté avec un préfix) en échange de **publicité** pour les clients qui se connectent sur votre site web. En d'autres mots, ils **restent propriétaires de votre site web à 100%** et ils font la promotion de leur entreprise via votre petite vitrine web fait avec leurs outils!

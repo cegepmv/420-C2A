@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>420-C2A Contenu web</title><link>https://cegepmv.github.io/420-C2A/index.html</link><description/><generator>Hugo</generator><language>fr-ca</language><lastBuildDate>Mon, 10 Aug 2026 09:46:56 -0400</lastBuildDate><atom:link href="https://cegepmv.github.io/420-C2A/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction au Web</title><link>https://cegepmv.github.io/420-C2A/intro/index.html</link><pubDate>Thu, 06 Aug 2026 14:11:38 -0400</pubDate><guid>https://cegepmv.github.io/420-C2A/intro/index.html</guid><description>Mon premier contact avec le Web (1995) J’étais en stage dans une entreprise de post-production. Nous étions dans le petit bureau du directeur et il nous a montré qu’il était possible de voir en direct à Santa-Monica. Entassé à 5 personnes autour de son écran à regarder le paysage de la Californie, nous étions éblouis sans pour autant y être!</description></item><item><title>Creer du contenu web</title><link>https://cegepmv.github.io/420-C2A/creerweb/index.html</link><pubDate>Fri, 07 Aug 2026 08:30:03 -0400</pubDate><guid>https://cegepmv.github.io/420-C2A/creerweb/index.html</guid><description>Selon votre objectif, plusieurs moyens sont offerts sur le net pour créer à peu près n’importe quoi. Au final, la technologie pour produire une page se base sur trois langages: HTML, CSS et JavaScript. Mais comment y arriver?
-Voici des exemples d’objectifs: Publicités Présentations Ventes en ligne Distribution Musique, Vidéos Communications Portfolio / CV en ligne Blogue / Journal personnel Formation et cours en ligne Communauté / Forum Réservation en ligne Application web / SaaS Collecte de fonds Actualités / Nouvelles Documentation / Wiki Jeux en ligne Voici plusieurs moyens d’y arriver CMS (Wix, Wordpress) Éditeur texte avec du HTML, CSS et Javascript Avec l’IA (générer le HTML, CSS et Javascript) Éditeur sur mesure (Figma, Canva) Application mobile (iOS, Android) Frameworks JavaScript (React, Vue, Angular, Svelte) Générateurs de sites statiques (Hugo, Jekyll, Next.js, Gatsby) No-code / Low-code (Webflow, Bubble, Framer) Plateformes e-commerce (Shopify, WooCommerce, PrestaShop) Plateformes de blogue (Ghost, Substack, Medium)</description></item><item><title>OutilCollab</title><link>https://cegepmv.github.io/420-C2A/outilcollab/index.html</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cegepmv.github.io/420-C2A/outilcollab/index.html</guid><description>Maintenant que vous devez travailler sur le web pour échanger vos idées avec tous les autres internautes, voici les outils de prédilection sur le net.
-La suite Microsoft 365 Au Cégep Marie-Victorin et également dans plein d’entreprise, l’industrie se tourne vers Microsoft 365. Des outils capable de vous propulser avec ce que vous pouvez imaginer pouvoir faire avec vos amis et vos collègues.</description></item><item><title>IA</title><link>https://cegepmv.github.io/420-C2A/ia/index.html</link><pubDate>Mon, 10 Aug 2026 09:46:56 -0400</pubDate><guid>https://cegepmv.github.io/420-C2A/ia/index.html</guid><description>Dans le cadre du cours Contenu Web, nous allons explorer le côté pratique de l’intelligence artificielle. En se basant sur une application interactive chatbot alimenté par un LLM (Grand Modèle de Langage), nous allons guider celui-ci pour l’obtention d’un résultat rapide et efficace.
-L’intelligence articielle tel que nous l’utilisons avec ChatGTP est un modèle de prédiction générative de texte, d’image, de code qui se base sur le contexte donné par l’utilisateur et une base de données d’une grosseur titanesque. Son niveau de connaissance dépasse ce qu’un humain peut avoir et se comporte selon un modèle conversationnels qui varie selon les tâches demandées et le contexte (Claude, ChatGPT, etc.).</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>420-C2A Contenu web</title>
+    <link>http://localhost:1313/420-C2A/index.html</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>fr-ca</language>
+    <lastBuildDate>Mon, 10 Aug 2026 15:10:20 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/420-C2A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction au Web</title>
+      <link>http://localhost:1313/420-C2A/intro/index.html</link>
+      <pubDate>Fri, 07 Aug 2026 08:49:15 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/intro/index.html</guid>
+      <description>Mon premier contact avec le Web (1995) J’étais en stage dans une entreprise de post-production. Nous étions dans le petit bureau du directeur et il nous a montré qu’il était possible de voir en direct à Santa-Monica. Entassé à 5 personnes autour de son écran à regarder le paysage de la Californie, nous étions éblouis sans pour autant y être!</description>
+    </item>
+    <item>
+      <title>Marketing</title>
+      <link>http://localhost:1313/420-C2A/marketing/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/420-C2A/marketing/index.html</guid>
+      <description>Pour être vu et connu sur le web, il vous faut une stratégie qui peut être assez diversifié. Pour chaque groupe d’invididus, il faut connaître leurs habitudes et adapter le message avec différentes stratégies digitales. Pour bien visualiser le concept de marketing digital, l’auteur Mike Robinson a illustré un arbre qui contient une structure articulée avec des propriétés.&#xA;La connaissance de son marché et du client est représenté au niveau des racines. Le tronc est la présence sur le web, à savoir votre site web, votre boutique e-commerce ou votre application mobile. Il doit être adapté à tous les écrans et bien référencé.</description>
+    </item>
+    <item>
+      <title>Creer du contenu web</title>
+      <link>http://localhost:1313/420-C2A/creerweb/index.html</link>
+      <pubDate>Sun, 09 Aug 2026 12:52:33 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/creerweb/index.html</guid>
+      <description>Selon votre objectif, plusieurs moyens sont offerts sur le net pour créer à peu près n’importe quoi. Au final, la technologie pour produire une page se base sur trois langages: HTML, CSS et JavaScript. Mais comment y arriver?&#xA;Voici des exemples d’objectifs: Publicités Présentations Ventes en ligne Distribution Musique, Vidéos Communications Portfolio / CV en ligne Blogue / Journal personnel Formation et cours en ligne Communauté / Forum Réservation en ligne Application web / SaaS Collecte de fonds Actualités / Nouvelles Documentation / Wiki Jeux en ligne Voici plusieurs moyens d’y arriver CMS (Wix, Wordpress) Éditeur texte avec du HTML, CSS et Javascript Avec l’IA (générer le HTML, CSS et Javascript) Éditeur sur mesure (Figma, Canva) Application mobile (iOS, Android) Frameworks JavaScript (React, Vue, Angular, Svelte) Générateurs de sites statiques (Hugo, Jekyll, Next.js, Gatsby) No-code / Low-code (Webflow, Bubble, Framer) Plateformes e-commerce (Shopify, WooCommerce, PrestaShop) Plateformes de blogue (Ghost, Substack, Medium)</description>
+    </item>
+    <item>
+      <title>OutilCollab</title>
+      <link>http://localhost:1313/420-C2A/outilcollab/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/420-C2A/outilcollab/index.html</guid>
+      <description>Maintenant que vous devez travailler sur le web pour échanger vos idées avec tous les autres internautes, voici les outils de prédilection sur le net.&#xA;La suite Microsoft 365 Au Cégep Marie-Victorin et également dans plein d’entreprise, l’industrie se tourne vers Microsoft 365. Des outils capable de vous propulser avec ce que vous pouvez imaginer pouvoir faire avec vos amis et vos collègues.</description>
+    </item>
+    <item>
+      <title>IA</title>
+      <link>http://localhost:1313/420-C2A/ia/index.html</link>
+      <pubDate>Mon, 10 Aug 2026 15:10:20 -0400</pubDate>
+      <guid>http://localhost:1313/420-C2A/ia/index.html</guid>
+      <description>Dans le cadre du cours Contenu Web, nous allons explorer le côté pratique de l’intelligence artificielle. En se basant sur une application interactive chatbot alimenté par un LLM (Grand Modèle de Langage), nous allons guider celui-ci pour l’obtention d’un résultat rapide et efficace.&#xA;L’intelligence articielle tel que nous l’utilisons avec ChatGTP est un modèle de prédiction générative de texte, d’image, de code qui se base sur le contexte donné par l’utilisateur et une base de données d’une grosseur titanesque. Son niveau de connaissance dépasse ce qu’un humain peut avoir et se comporte selon un modèle conversationnels qui varie selon les tâches demandées et le contexte (Claude, ChatGPT, etc.).</description>
+    </item>
+  </channel>
+</rss>
