@@ -41,4 +41,7 @@ Pour que vos client vous trouvent sur le net, il vous fait une adresse URL (Unif
 
 ![DNS](https://whc.ca/wp-content/themes/whc/images/blog/etapes-resolution-dns.svg)
 
+## DNS (Domain Name System)
+
+Il agit comme un botin téléphonique des adresses web sur Internet.
 
