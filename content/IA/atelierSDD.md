@@ -1,6 +1,6 @@
 +++
 date = '2026-08-10T09:46:56-04:00'
-draft = true
+draft = false
 title = 'Atelier — SDD avec SpecKit'
 weight = 10
 +++

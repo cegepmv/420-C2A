@@ -1,6 +1,6 @@
 +++
 date = '2026-08-07T09:20:17-04:00'
-draft = true
+draft = false
 title = 'Atelier Web 1 - Navigateur'
 weight = 10
 +++

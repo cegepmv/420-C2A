@@ -1,6 +1,6 @@
 +++
 date = '2026-08-09T13:39:05-04:00'
-draft = true
+draft = false
 title = 'Atelier Microsoft 365'
 weight = 10
 +++

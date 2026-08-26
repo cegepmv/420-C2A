@@ -1,6 +1,6 @@
 +++
 date = '2026-08-14T14:53:16-04:00'
-draft = true
+draft = false
 title = 'Reseau sociaux'
 +++
 
