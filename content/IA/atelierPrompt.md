@@ -1,6 +1,6 @@
 +++
 date = '2026-08-10T15:10:20-04:00'
-draft = false
+draft = true
 title = 'Atelier — SDD avec un chatbot'
 weight = 20
 +++
