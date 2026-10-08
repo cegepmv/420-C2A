@@ -21,17 +21,17 @@ Comme par exemple, introduction aux sports Baseball comme 1ère page, et 2ième 
 
 Faire le lien entre les 2 pages et créer un lien sur le site officiel de votre sujet.
 
-## **Extra :**
+## **Quoi faire**
 
 Intégrer du contenu externe aux 2 pages web comme par exemple une intégration d’un lecteur Spotify, Youtube dans votre page.
 
-- Produire un menu dans une entête (header) et créer une composante avec ce menu.
-- Produire un pied de page (footer) et créer une composante avec ce menu.
-- Produisez le contenu de vos 2 pages.
+- Produire un menu dans une entête (header) et créer un composant avec ce menu.
+- Produire un pied de page (footer) et créer un composant avec ce menu.
+- Produire le contenu de vos 2 pages.
 - Intégrer les 2 images fournis dans vos 2 pages.
-- Exportez le contenu des 2 pages Figma via une des 3 méthodes IA apprises (ChatGPT, GitHub Copilot Chat ou via un plugin de Figma) pour produire vos pages html et vos feuilles de style css.
+- Exporter le contenu des 2 pages Figma via une des 3 méthodes IA apprises (ChatGPT, GitHub Copilot Chat ou via un plugin de Figma) pour produire vos pages html et vos feuilles de style css.
 - Créer un dossier avec ces fichiers dans un dossier TP2.
-- Ouvrir ce dossier avec VSCode.
+- Ouvrir ce dossier TP2 avec VSCode.
 - Faire des modifications avec ou sans github copilot chat.
 - Documenter vos prompts (texte envoyé sous forme d’instructions à l’IA) et la méthode utilisée pour faire votre TP2 dans un document Word qui sera remis à la fin du cours. Chaque étape doit être mentionné dans ce document texte.
 
