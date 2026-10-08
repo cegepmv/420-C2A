@@ -4,41 +4,38 @@ draft = false
 title = 'TP2 Formatif'
 +++
 
-# TP-2 formatif
-
     • Travail individuel
     • Produire 2 pages web avec les outils Figma et VSCode.
 
 ## Sujets au choix
 
-Sports favoris, Musiques favorites, Arts.
+Sports favoris, Musiques favorites, Loisirs, Arts.
 
 ## Contenus
 
 2 pages (introduction + approfondissement).
 
-Comme par exemple, introduction aux sports Baseball comme 1ère page, et 2ième page sur votre équipe favorite ou votre joueur favori.
+Comme par exemple, introduction au sport Baseball comme 1ère page, et 2ième page sur votre équipe favorite ou votre joueur favori.
 
-Faire le lien entre les 2 pages et créer un lien sur le site officiel de votre sujet.
+Faire le lien entre les 2 pages et créer un lien sur le site officiel par rapport à votre sujet.
 
 ## **Quoi faire**
 
-Intégrer du contenu externe aux 2 pages web comme par exemple une intégration d’un lecteur Spotify, Youtube dans votre page.
-
+- Intégrer du contenu externe aux 2 pages web.
 - Produire un menu dans une entête (header) et créer un composant avec ce menu.
 - Produire un pied de page (footer) et créer un composant avec ce menu.
 - Produire le contenu de vos 2 pages.
-- Intégrer les 2 images fournis dans vos 2 pages.
+- Intégrer les 2 images fournies dans vos 2 pages.
 - Exporter le contenu des 2 pages Figma via une des 3 méthodes IA apprises (ChatGPT, GitHub Copilot Chat ou via un plugin de Figma) pour produire vos pages html et vos feuilles de style css.
 - Créer un dossier avec ces fichiers dans un dossier TP2.
-- Ouvrir ce dossier TP2 avec VSCode.
+- Ouvrir ce dossier nommé TP2 avec VSCode.
 - Faire des modifications avec ou sans github copilot chat.
 - Documenter vos prompts (texte envoyé sous forme d’instructions à l’IA) et la méthode utilisée pour faire votre TP2 dans un document Word qui sera remis à la fin du cours. Chaque étape doit être mentionné dans ce document texte.
 
 ## **À livrer :**
 
 - Remettre le « design » à l’enseignant en faisant un partage et déposer le travail dans un dossier TP-2.
-- Remetttre la page web avec les 2 pages html, le fichier de style  css et les images sous forme de fichier compressé (zip) dans Lea.
+- Remetttre la page web avec les 2 pages html, le fichier de style  css et les images sous forme de fichier compressé (zip) dans Lea (Formatif TP-2).
 
 ## Images fournies
 
