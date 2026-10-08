@@ -38,7 +38,7 @@ Intégrer du contenu externe aux 2 pages web comme par exemple une intégration 
 ## **À livrer :**
 
 - Remettre le « design » à l’enseignant en faisant un partage et déposer le travail dans un dossier TP-2.
-- Remetttre la page web avec les 2 pages html et le fichier de style style.css sous forme de fichier compressé (zip).
+- Remetttre la page web avec les 2 pages html, le fichier de style  css et les images sous forme de fichier compressé (zip) dans Lea.
 
 ## Images fournies
 
