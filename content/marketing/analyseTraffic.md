@@ -8,7 +8,7 @@ Le critère le plus important en marketing digital, est le retour sur investisse
 
 ## Google Analytics
 
-### Connectez-vous à un compte gmail.com (Google).
+### Connectez-vous à votre compte gmail.com (Google).
 
 Allez à l'adresse suivante: https://developers.google.com/analytics?hl=fr
 
@@ -20,13 +20,11 @@ Allez à l'adresse suivante: https://developers.google.com/analytics?hl=fr
 
 ### Créez une propriété
 - Avec votre compte, créez une propriété. Créez une propriété Google Analytics 4 pour mesurer vos données Web et d'application. Chaque propriété inclut toutes vos données de mesure pour l'ensemble des sites et applications que vous sélectionnez. Donnez-lui un nom, numéro de cellulaire et choisissez une devise.
-![](/images/google-step3.png)
 - Répondez aux questions sur la taille et la nature de l'entreprise.
-![](/images/google-step4.png)
 - Choisissez un objectif (Comprendre le trafic Web).
-![](/images/google-step5.png)
+![](/images/google-step3.png)
 - Choisissez plate-forme Web.
-
+![](/images/google-step5.png)
 ### Entrez les informations de votre site
 ![](/images/google-step6.png)
 Entrez le nom de votre site web et donner un nom significatif au Flux.
