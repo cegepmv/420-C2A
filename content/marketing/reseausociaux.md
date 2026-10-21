@@ -42,7 +42,7 @@ X (Twitter) et Bluesky : Pour suivre les nouvelles minute par minute et réagir 
 
 ## Formats de chacun des réseaux
 
-Tout dépendant si le publique cible utilise les apareils mobiles ou un navigateur web, le format varie. Tiktok par exemple favorise les clips courts accompagnés de musique. Youtube est plus large et favorise les tutoriels, mini reportage et la musique. Donc, la durée dans le temps, la qualité du contenu et la musique varie selon de réseau. Un chanson complète peut être utilisé avec pleine résolution dans youtube. Cependant, Tiktok va utilise qu'un segment vidéo et audio pour capter l'attention en quelques secondes. 
+Tout dépendant si le publique cible utilise les apareils mobiles ou un navigateur web, le format varie. Tiktok par exemple favorise les clips courts accompagnés de musique. Youtube est plus large et favorise les tutoriels, mini reportage et la musique. Donc, la durée dans le temps, la qualité du contenu et la musique varie selon de réseau. Une chanson complète peut être utilisée avec pleine résolution dans Youtube. Cependant, Tiktok va utiliser qu'un segment vidéo et audio pour capter l'attention en quelques secondes.
 
 ### Format Tiktok
 
